@@ -1,0 +1,11 @@
+C:\Users\Titanc\source\repos\FakeCloud\FakeCloud\bin\Debug\FakeCloud.exe.config
+C:\Users\Titanc\source\repos\FakeCloud\FakeCloud\bin\Debug\FakeCloud.exe
+C:\Users\Titanc\source\repos\FakeCloud\FakeCloud\bin\Debug\FakeCloud.pdb
+C:\Users\Titanc\source\repos\FakeCloud\FakeCloud\obj\Debug\FakeCloud.FakeCloud_Home.resources
+C:\Users\Titanc\source\repos\FakeCloud\FakeCloud\obj\Debug\FakeCloud.FakeCloud_Loader.resources
+C:\Users\Titanc\source\repos\FakeCloud\FakeCloud\obj\Debug\FakeCloud.Properties.Resources.resources
+C:\Users\Titanc\source\repos\FakeCloud\FakeCloud\obj\Debug\FakeCloud.csproj.GenerateResource.cache
+C:\Users\Titanc\source\repos\FakeCloud\FakeCloud\obj\Debug\FakeCloud.csproj.CoreCompileInputs.cache
+C:\Users\Titanc\source\repos\FakeCloud\FakeCloud\obj\Debug\FakeCloud.exe
+C:\Users\Titanc\source\repos\FakeCloud\FakeCloud\obj\Debug\FakeCloud.pdb
+C:\Users\Titanc\source\repos\FakeCloud\FakeCloud\obj\Debug\FakeCloud.Modules.Home.resources
